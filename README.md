@@ -25,6 +25,8 @@ A Cyberpunk themed NFC hacker card!
   <a href="#license">License</a>
 </p>
 
+<img src="assets/cybercard_finished.jpg" alt="Schematic" width="800"/>
+
 ## Key Features
 
 - NFC capability

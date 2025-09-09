@@ -27,3 +27,9 @@ After that I added some text and then called it a day. This was the end result.
 ![PCB Design](assets/pcb_final.png)
 
 **Time Spent:** 4 Hours
+
+# August 14: Recieved Cards and Flashing
+
+After recieving the cards I flashed them with `A2:03:E1:10:6D:00,A2:04:03:04:D8:00,A2:05:00:00:FE:00` and then was able to use them!
+
+![Final Card](assets/cybercard_finished.jpg)
