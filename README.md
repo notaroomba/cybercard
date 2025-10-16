@@ -2,7 +2,7 @@
   <br>
   <a href="https://notaroomba.dev"><img src="https://raw.githubusercontent.com/NotARoomba/CyberCard/main/assets/logo.png" alt="CyberCard" width="200"></a>
   <br>
-  CyberCard
+  Cybercard
   <br>
 </h1>
 
